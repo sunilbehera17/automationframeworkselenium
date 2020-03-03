@@ -1,0 +1,8 @@
+TestEntity.TestCaseId,TestEntity.TestMethod,BillingData.loginUserName,BillingData.loginPassWord,BillingData.planname,BillingData.shortdescription,BillingData.subscriptionfee,BillingData.name,BillingData.securitycode,BillingData.cardnumber,BillingData.expmonth,BillingData.expyear,BillingData.currency
+TC_SubscriptionReg_01,TC_SubscriptionReg_01,s.udhansu.test2@gmail.com,muvi1234,Magic Plan,Magic plan,100,,123,4111111111111111,12,2036
+TC_SubscriptionReg_02,TC_SubscriptionReg_02,s.udhansu.test2@gmail.com,muvi1234,Magic Plan,Magic plan,100,,123,4111111111111111,12,2036
+TC_SubscriptionReg_03,TC_SubscriptionReg_03,s.udhansu.test2@gmail.com,muvi1234,Magic Plan,Magic plan,100,,123,4111111111111111,12,2036
+TC_SubscriptionReg_04,TC_SubscriptionReg_04,s.udhansu.test2@gmail.com,muvi1234,Magic Plan,Magic plan,100,,123,4111111111111111,12,2036
+TC_SubscriptionReg_05,TC_SubscriptionReg_05,s.udhansu.test2@gmail.com,muvi1234,Magic Plan,Magic plan,100,,123,4111111111111111,12,2036,United States-USD($)
+TC_SubscriptionReg_06,TC_SubscriptionReg_06,s.udhansu.test2@gmail.com,muvi1234,Magic Plan,Magic plan,100,,123,4111111111111111,12,2036,United States-USD($)
+TC_SubscriptionReg_07,TC_SubscriptionReg_07,bdjyoti@gmail.com,Jyoti@123,Magic Plan,Magic plan,100,,123,4111111111111111,12,2036,United States-USD($)

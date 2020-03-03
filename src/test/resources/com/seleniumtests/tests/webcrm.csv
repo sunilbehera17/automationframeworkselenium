@@ -1,0 +1,3 @@
+TestEntity.TestCaseId,TestEntity.TestMethod,WebCRMData.loginUserName,WebCRMData.loginPassWord,WebCRMData.callingInterfaceURL,WebCRMData.urlBuyerid,WebCRMData.urlMobileNo,WebCRMData.buyerId,WebCRMData.query,WebCRMData.solrCore,WebCRMData.solrQuery,WebCRMData.solrValue,WebCRMData.sqlCore,WebCRMData.emailId
+WebCRMTestCaseID2,LoginInWebCRM,automationtest@mb.com,magicbricks,http://mbcrm.magicbricks.com/mbwebcrm/callingInterface?,buyerId=,mobileNo=,7292093,select * from tpmvt where mvtmobile = 8376916072,Property,id:20343886,ct,property,ssrikanta@mailsac.com
+

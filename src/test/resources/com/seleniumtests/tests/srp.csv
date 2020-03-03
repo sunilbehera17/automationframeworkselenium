@@ -1,0 +1,6 @@
+TestEntity.TestCaseId,TestEntity.TestMethod,SRPData.searchText,SRPData.minBudget,SRPData.maxBudget,SRPData.minArea,SRPData.maxArea,SRPData.searchTextSRP,SRPData.query,SRPData.bhkType,SRPData.postedType,SRPData.revelanceType,SRPData.postedSinceType,SRPData.constructionStatusType,SRPData.buyRentType
+SRPTestCaseID1,SRPFilter,noid,1000000,5000000,400,1800,noid,test,2 BHK,Owners,Price - Low to High,Yesterday,Ready To Move,Rent
+SRPTestCaseID2,SRPFilterPostedBy,noid,3000000,6000000,800,1600,noid,test,1 BHK,Owners,Price - Low to High,Yesterday,Ready To Move,Rent
+SRPTestCaseID3,SRPFilterPostedByRent,noid,1000000,5000000,900,1700,noid,test,2 BHK,Owners,Price - Low to High,Yesterday,Ready To Move,Rent
+SRPTestCaseID4,SRPProperty,noid,1000000,5000000,1000,1800,noid,test,3 BHK,Owners,Price - Low to High,Yesterday,Ready To Move,Rent
+SRPTestCaseID5,SRPPropertyTypetest,noid,1000000,5000000,1200,2200,noid,test,2 BHK,Owners,Price - Low to High,Yesterday,Ready To Move,Rent

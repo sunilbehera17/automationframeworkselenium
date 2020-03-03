@@ -1,0 +1,6 @@
+TestEntity.TestCaseId,TestEntity.TestMethod,MuviData.loginUserName,MuviData.loginPassWord,MuviData.loginName,MuviData.cardnumber,MuviData.expmonth,MuviData.expyear,MuviData.cvv,MuviData.query,MuviData.textCompair,MuviData.address,MuviData.zip,MuviData.mobilenumber,MuviData.country
+MuviAdminTestCaseID1,LoginInMuviAdmin,qa-automation@muvi.com,testing@123,Automation
+ATC_PPV_001,Register_Taking_Up_All_Content_Subscription_Plan,template1classic@gmail.com,shibanee123,Automation,4111111111111111,12,2036,123,select * from sdk_users where email = ,,,,,USA,
+ATC_PPV_002,Register_Subscription_Notenabled,template1classic@gmail.com,shibanee123,Automation,4111111111111111,12,2036,123,select * from sdk_users where email = ,,,,,USA,
+ATC_PPV_003,Purchase_Single_Part_Content,template1classic@gmail.com,shibanee123,Automation,4111111111111111,12,2036,123,select * from sdk_users where email = ,,,,,USA,
+ATC_Player_001,Player

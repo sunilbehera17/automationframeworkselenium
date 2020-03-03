@@ -1,0 +1,2 @@
+TestEntity.TestCaseId,TestEntity.TestMethod,MuviPlayerData.loginUserName,MuviPlayerData.loginPassWord,MuviPlayerData.loginName,MuviPlayerData.cardnumber,MuviPlayerData.expmonth,MuviPlayerData.expyear,MuviPlayerData.cvv,MuviPlayerData.query,MuviPlayerData.textCompair,MuviPlayerData.address,MuviPlayerData.zip,MuviPlayerData.mobilenumber,MuviPlayerData.country
+ATC_Player_001,Player
